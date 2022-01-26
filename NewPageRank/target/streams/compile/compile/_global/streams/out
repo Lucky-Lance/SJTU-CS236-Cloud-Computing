@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/usr/local/spark/mycode/NewPageRank/src/main/scala/PageRankExample.scala:36:11: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m          )[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/usr/local/spark/mycode/NewPageRank/src/main/scala/PageRankExample.scala:42:7: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m      }[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

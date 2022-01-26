@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /usr/local/spark/mycode/wordcount/target/scala-2.11/simple-project_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/wordcount/target/scala-2.11/classes/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/wordcount/target/scala-2.11/classes/WordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/wordcount/target/scala-2.11/classes/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/wordcount/target/scala-2.11/classes/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/wordcount/target/scala-2.11/classes/WordCount$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/wordcount/target/scala-2.11/classes/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

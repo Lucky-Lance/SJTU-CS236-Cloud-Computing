@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /usr/local/spark/mycode/PageRank/target/scala-2.11/simple-project_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/graphx[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples/graphx[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/graphx/PageRankExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples/graphx/PageRankExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/graphx/PageRankExample$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples/graphx/PageRankExample$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/graphx/PageRankExample$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples/graphx/PageRankExample$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/graphx/PageRankExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples/graphx/PageRankExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/graphx/PageRankExample$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples/graphx/PageRankExample$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/graphx/PageRankExample$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples/graphx/PageRankExample$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/graphx/PageRankExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples/graphx/PageRankExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/graphx/PageRankExample$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /usr/local/spark/mycode/PageRank/target/scala-2.11/classes/org/apache/spark/examples/graphx/PageRankExample$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/usr/local/spark/mycode/ConnectedComponents/src/main/scala/ConnectedComponentsExample.scala:28:8: object SparkSession is not a member of package org.apache.spark.sql[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/usr/local/spark/mycode/ConnectedComponents/src/main/scala/ConnectedComponentsExample.scala:47:17: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val spark = SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
